@@ -1,0 +1,5 @@
+def distribute()
+
+
+
+print distribute()
